@@ -1,8 +1,8 @@
 # Atmosphere-Monitoring-System-Developer
 
 • Designed an IoT based weather monitoring system using Python on Raspberry Pi. Able to constantly capture
-data about the current local temperature and humidity using a DHT sensor.
+data about the current local temperature and humidity using a DHT sensor.<br>
 • Sensed temperature and humidity approximately every 1 minute, generated the averages of both quantities
-hourly and displayed on LCD.
+hourly and displayed on LCD.<br>
 • Virtualized sprinkling hourly through LED and connected over the Internet once per hour to extract the
 CIMIS data from nearby stations
